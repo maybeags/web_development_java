@@ -26,8 +26,13 @@ public class ProductMain {
 
         // Product 객체를 생성하세요.
         // 전자 제품, 가전, 100000, 10로 생성하고, displayInfo()를 통해서 콘솔에 정보를 출력하세요.
-
+        Product product1 = new Product("전자 제품", "가전", 100000, 10);
+        System.out.println();
+        product1.displayInfo();         // 서브 클래스의 고유 메서드
         // product1의 이름을 "가전 제품"으로 바꾸고, getName을 통해 바뀐 것을 콘솔창에 출력하시오.
+        System.out.println();
+        product1.setName("가전 제품");  // 슈퍼 클래스의 메서드
+        System.out.println(product1.getName()); // 슈퍼 클래스의 메서드
 
     }
 }
