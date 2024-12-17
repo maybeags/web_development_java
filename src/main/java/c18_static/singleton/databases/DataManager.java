@@ -1,4 +1,4 @@
-package c_18_static.singleton.databases;
+package c18_static.singleton.databases;
 
 public class DataManager {
     // 싱글톤 인스턴스를 가져와서 데이터베이스 연산을 수행하는 메서드만 정의할 예정입니다

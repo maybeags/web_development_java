@@ -1,4 +1,4 @@
-package c_18_static.singleton;
+package c18_static.singleton;
 /*
     싱글톤 패턴(Singleton Pattern)
         : 소프트웨어 '디자인 패턴' 중 하나로, 어떤 클래스가 하나의 인스턴스만 갖도록 보장하고,

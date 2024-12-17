@@ -1,4 +1,4 @@
-package c_18_static;
+package c18_static;
 
 import lombok.Getter;
 import lombok.Setter;

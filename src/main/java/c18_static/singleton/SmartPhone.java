@@ -1,4 +1,4 @@
-package c_18_static.singleton;
+package c18_static.singleton;
 
 import lombok.AllArgsConstructor;
 import lombok.ToString;

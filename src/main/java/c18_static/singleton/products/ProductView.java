@@ -1,4 +1,4 @@
-package c_18_static.singleton.products;
+package c18_static.singleton.products;
 /*
     products 패키지 생성
     ProductView.java / ProductViewMain.java 생성
@@ -17,9 +17,6 @@ public class ProductView {
 
         return instance;
     }
-
-
-
 
 
     public void showMainView() {

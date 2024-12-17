@@ -1,4 +1,4 @@
-package c_18_static.singleton.databases;
+package c18_static.singleton.databases;
 
 public class DatabaseMain {
     public static void main(String[] args) {

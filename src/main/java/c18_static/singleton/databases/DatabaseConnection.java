@@ -1,4 +1,4 @@
-package c_18_static.singleton.databases;
+package c18_static.singleton.databases;
 /*
     database 패키지 생성
     DatabaseConnection.java / DatabaseMain.java / DataManager.java 생성
